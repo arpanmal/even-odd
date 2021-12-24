@@ -13,27 +13,6 @@ int main (){
         if(stri[i]==' '||k==0){
                int s=1,j=0;
             while(srh[s-1]!='\0'){
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                printf("%d stri\n",k);
 
                if(srh[s-1]==stri[(k+s)-1]){
